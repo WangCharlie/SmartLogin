@@ -1,0 +1,9 @@
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Weibo\bin\Debug\netstandard2.0\SmartLogin.Weibo.deps.json
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Weibo\bin\Debug\netstandard2.0\SmartLogin.Weibo.dll
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Weibo\bin\Debug\netstandard2.0\SmartLogin.Weibo.pdb
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Weibo\obj\Debug\netstandard2.0\SmartLogin.Weibo.csproj.CoreCompileInputs.cache
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Weibo\obj\Debug\netstandard2.0\SmartLogin.Weibo.AssemblyInfoInputs.cache
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Weibo\obj\Debug\netstandard2.0\SmartLogin.Weibo.AssemblyInfo.cs
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Weibo\obj\Debug\netstandard2.0\SmartLogin.Weibo.dll
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Weibo\obj\Debug\netstandard2.0\SmartLogin.Weibo.pdb
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Weibo\obj\Debug\netstandard2.0\SmartLogin.Weibo.csprojAssemblyReference.cache

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLogin", "SmartLogin\SmartLogin.csproj", "{AB1BEF96-6572-4D24-A116-B22D59AD536B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLogin.QQ", "SmartLogin.QQ\SmartLogin.QQ.csproj", "{B0817C63-9790-4EA3-98C3-B1C1A8770F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLogin.Wechat", "SmartLogin.Wechat\SmartLogin.Wechat.csproj", "{216EFD30-5BB9-41A3-B9F2-164744E374D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLogin.Weibo", "SmartLogin.Weibo\SmartLogin.Weibo.csproj", "{D80F89F8-187C-41A3-B436-2E7DDE1285A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1BEF96-6572-4D24-A116-B22D59AD536B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1BEF96-6572-4D24-A116-B22D59AD536B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1BEF96-6572-4D24-A116-B22D59AD536B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1BEF96-6572-4D24-A116-B22D59AD536B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0817C63-9790-4EA3-98C3-B1C1A8770F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0817C63-9790-4EA3-98C3-B1C1A8770F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0817C63-9790-4EA3-98C3-B1C1A8770F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0817C63-9790-4EA3-98C3-B1C1A8770F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216EFD30-5BB9-41A3-B9F2-164744E374D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216EFD30-5BB9-41A3-B9F2-164744E374D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216EFD30-5BB9-41A3-B9F2-164744E374D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216EFD30-5BB9-41A3-B9F2-164744E374D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80F89F8-187C-41A3-B436-2E7DDE1285A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80F89F8-187C-41A3-B436-2E7DDE1285A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80F89F8-187C-41A3-B436-2E7DDE1285A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80F89F8-187C-41A3-B436-2E7DDE1285A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {386D27EF-CDA5-49B9-98D0-12BCC4CA6A61}
+	EndGlobalSection
+EndGlobal

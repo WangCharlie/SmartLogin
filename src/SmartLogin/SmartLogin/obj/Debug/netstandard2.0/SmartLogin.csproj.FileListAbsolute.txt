@@ -1,0 +1,12 @@
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\bin\Debug\netstandard2.0\SmartLogin.deps.json
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\bin\Debug\netstandard2.0\SmartLogin.dll
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\bin\Debug\netstandard2.0\SmartLogin.pdb
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\obj\Debug\netstandard2.0\SmartLogin.csproj.CoreCompileInputs.cache
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\obj\Debug\netstandard2.0\SmartLogin.AssemblyInfoInputs.cache
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\obj\Debug\netstandard2.0\SmartLogin.AssemblyInfo.cs
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\obj\Debug\netstandard2.0\SmartLogin.dll
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\obj\Debug\netstandard2.0\SmartLogin.pdb
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\obj\Debug\netstandard2.0\SmartLogin.csprojAssemblyReference.cache
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\bin\Debug\netstandard2.0\SmartLogin.QQ.dll
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\bin\Debug\netstandard2.0\SmartLogin.QQ.pdb
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin\obj\Debug\netstandard2.0\SmartLogin.csproj.CopyComplete

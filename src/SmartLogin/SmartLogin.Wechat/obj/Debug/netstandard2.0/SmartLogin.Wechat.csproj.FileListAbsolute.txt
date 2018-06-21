@@ -1,0 +1,9 @@
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Wechat\bin\Debug\netstandard2.0\SmartLogin.Wechat.deps.json
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Wechat\bin\Debug\netstandard2.0\SmartLogin.Wechat.dll
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Wechat\bin\Debug\netstandard2.0\SmartLogin.Wechat.pdb
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Wechat\obj\Debug\netstandard2.0\SmartLogin.Wechat.csproj.CoreCompileInputs.cache
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Wechat\obj\Debug\netstandard2.0\SmartLogin.Wechat.AssemblyInfoInputs.cache
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Wechat\obj\Debug\netstandard2.0\SmartLogin.Wechat.AssemblyInfo.cs
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Wechat\obj\Debug\netstandard2.0\SmartLogin.Wechat.dll
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Wechat\obj\Debug\netstandard2.0\SmartLogin.Wechat.pdb
+D:\Source\Repos\SmartLogin\src\SmartLogin\SmartLogin.Wechat\obj\Debug\netstandard2.0\SmartLogin.Wechat.csprojAssemblyReference.cache
